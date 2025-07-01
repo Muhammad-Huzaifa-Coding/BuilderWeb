@@ -1,0 +1,46 @@
+     .sec1 {
+            background: url(https://preview.colorlib.com/theme/builder/img/banner/banner.jpg.webp) no-repeat scroll center center;
+            height: 300px;
+        }
+
+        .secm {
+            height: 200px;
+            margin-top: 10px;
+        }
+
+        .il1 {
+            position: relative;
+        }
+
+        .il2 {
+            position: absolute;
+            top: -200px;
+            left: 620px;
+            width: 250px;
+            text-align: center;
+        }
+
+        .il2>a {
+            font-size: 14px;
+            color: #ffffff;
+            font-family: "Roboto", sans-serif;
+            margin-right: 32px;
+            text-decoration: none;
+            text-transform: uppercase;
+        }
+        .il2>a:hover {
+         color: #fab700;
+        }
+
+        .il2>h2 {
+            color: #ffffff;
+            font-size: 48px;
+            font-family: "Roboto", sans-serif;
+            margin-bottom: 0px;
+            font-weight: 500;
+        }
+        .il3{
+             color: #ffffff;
+             margin-left: -10px;
+             margin-right: 10px;
+        }
